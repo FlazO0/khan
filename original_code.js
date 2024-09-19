@@ -6,9 +6,6 @@
 // @version     3.0 Remake
 // @author      KIN
 // @description ModMenu para khan academy
-// @patch       kd12m8a24h15M53
-// @downloadURL https://update.greasyfork.org/scripts/503460/Krakdemy.user.js
-// @updateURL https://update.greasyfork.org/scripts/503460/Krakdemy.meta.js
 // ==/UserScript==
 
 
